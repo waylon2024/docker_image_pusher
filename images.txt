@@ -1,1 +1,2 @@
-nginx
+freeradius/freeradius-server
+tpdock/freeradius
