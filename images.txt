@@ -1,2 +1,3 @@
-frauhottelmann/daloradius-docker:amd64-v1.1-2-focal
-xhofe/alist:amd64-v1.1-2-focal
+robertkwok2/daloradius-docker
+boro/freeradius-daloradius
+fevenor/daloradius
