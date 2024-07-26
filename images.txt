@@ -1,2 +1,2 @@
 frauhottelmann/daloradius-docker
-
+xhofe/alist:amd64-v1.1-2-focal
