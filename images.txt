@@ -1,2 +1,2 @@
-freeradius/freeradius-server
-tpdock/freeradius
+frauhottelmann/daloradius-docker
+
