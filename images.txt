@@ -1,3 +1,2 @@
-robertkwok2/daloradius-docker
 boro/freeradius-daloradius
-fevenor/daloradius
+bfevenor/daloradius
