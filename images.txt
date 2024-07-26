@@ -1,2 +1,2 @@
-frauhottelmann/daloradius-docker
+frauhottelmann/daloradius-docker:amd64-v1.1-2-focal
 xhofe/alist:amd64-v1.1-2-focal
